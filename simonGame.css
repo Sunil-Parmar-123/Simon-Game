@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+}
+.container {
+    display: flex;
+    /* margin: auto; */
+}
+.main-container {
+    display: inline-block;
+    /* margin: auto; */
+    /* text-align: center; */
+}
+.btn{
+    width: 100px;
+    height: 100px;
+    margin: 0 15px 15px 0;
+    border: 5px solid black;
+    border-radius: 10%;
+}
+.btn0{
+    background-color:  #f48b22 ;
+}
+.btn1{
+    background-color: #10d6a1;
+}
+.btn2{
+    background-color: #d029e6;
+}
+.btn3{
+    background-color: #d1fc29;
+}
+.randomFlash{
+    background-color: black;
+}
+.userFlash{
+    background-color: green;
+}
